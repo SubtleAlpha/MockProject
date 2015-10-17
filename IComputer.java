@@ -1,8 +1,5 @@
-public class Car
+public interface IComputer
 {
-   public static void main(String[] args)
-   {
-   }
    public boolean start()
    {
    }
