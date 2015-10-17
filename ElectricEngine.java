@@ -1,4 +1,4 @@
-public class GasEngine implements IEngine
+public class ElectricEngine implements IEngine
 {
    public boolean start()
    {
